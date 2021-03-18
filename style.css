@@ -83,3 +83,9 @@ position: relative;
 .link:hover{
     background-color: palevioletred;
 }
+a{
+text-decoration: none;
+}
+.article:hover{
+    color: red;
+}
